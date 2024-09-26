@@ -4,6 +4,8 @@ on: push
 
 jobs:
   test:
+    permissions:
+        contents: write
     runs-on: ubuntu-latest
     steps:
       #----------------------------------------------
