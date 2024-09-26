@@ -8,7 +8,7 @@ Created on Thu Sep 26 11:25:37 2024
 
 #sys.path.append(r"C:\Users\Lenovo\Desktop\py_files\chekio")
 
-from Multiply import mult_two
+from chekio.Multiply import mult_two
 
 def test_multiply():
     
