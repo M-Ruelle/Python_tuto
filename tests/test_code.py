@@ -4,10 +4,6 @@ Created on Thu Sep 26 11:25:37 2024
 
 @author: Lenovo
 """
-#import sys
-
-#sys.path.append(r"C:\Users\Lenovo\Desktop\py_files\chekio")
-
 from chekio.mult_two import mult_two
 
 def test_multiply():
